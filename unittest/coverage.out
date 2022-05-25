@@ -1,0 +1,3 @@
+mode: set
+unittest/main.go:3.24,5.2 1 1
+unittest/main.go:7.35,9.2 1 0
