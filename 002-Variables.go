@@ -37,4 +37,9 @@ func main() {
 	fmt.Println("Cadena por defecto: ", cadena)
 	fmt.Println("Booleano por defecto: ", booleano)
 
+	type money int
+
+	var price money
+	price = 4000
+	fmt.Printf("%T \t %v \n", price, price)
 }
